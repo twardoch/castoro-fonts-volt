@@ -5,6 +5,8 @@ axisOrder:
   - wght
   - ital
 familyName: Castoro
+buildSmallCap: False
+cleanUp: True
 stat:
   Castoro[wght].ttf:
   - name: Weight 
