@@ -388,8 +388,6 @@
         <integer>65535</integer>
       </dict>
     </array>
-    <key>openTypeHeadCreated</key>
-    <string>2020/12/13 17:02:06</string>
     <key>openTypeHeadFlags</key>
     <array/>
     <key>openTypeHheaAscender</key>
