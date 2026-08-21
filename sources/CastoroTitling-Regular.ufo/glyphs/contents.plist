@@ -620,6 +620,8 @@
     <string>hyphen.glif</string>
     <key>less</key>
     <string>less.glif</string>
+    <key>lineseparator</key>
+    <string>lineseparator.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
     <key>macron</key>
@@ -680,6 +682,8 @@
     <string>ordmasculine.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
+    <key>paragraphseparator</key>
+    <string>paragraphseparator.glif</string>
     <key>parenleft</key>
     <string>parenleft.glif</string>
     <key>parenright</key>
@@ -766,8 +770,6 @@
     <string>sixthemspace.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
-    <key>softhyphen</key>
-    <string>softhyphen.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>sterling</key>

@@ -335,9 +335,6 @@ body {
   <body>
     <div id="ui-nav">
       
-      <div class="ui-nav-item" id="fonttoggle">Old</div>
-      <div class="ui-nav-item" id="fontanimate">Animate</div>
-      
       <div id="axes"></div>
     </div>
 
@@ -349,8 +346,7 @@ body {
         <div id="header">
           <h1> Diffenator3 Proof</h1>
           
-          <h3> Font before: <code>Castoro-Regular.ttf </code></h3>
-          <h3> Font after: <code>Castoro[wght].ttf </code></h3>
+          <h3> Font: <code>CastoroTitling-Regular.ttf </code></h3>
           
         </div>
         <div id="main">
@@ -798,11 +794,11 @@ let axes_instances = {"axes":{},"instances":[]};
       $( ()=>{ 
         document.styleSheets[0].cssRules[0].style.setProperty(
           "src",
-          "url(old-Castoro-Regular.ttf)"
+          "url(old-CastoroTitling-Regular.ttf)"
         );
         document.styleSheets[0].cssRules[1].style.setProperty(
           "src",
-          "url(new-Castoro[wght].ttf)"
+          "url(new-CastoroTitling-Regular.ttf)"
         );
         setupAnimation()
         setupAxes(axes_instances);

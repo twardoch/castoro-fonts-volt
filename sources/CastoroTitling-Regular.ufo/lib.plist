@@ -1174,7 +1174,6 @@
       <string>quotedbl</string>
       <string>asterisk</string>
       <string>hyphen</string>
-      <string>softhyphen</string>
       <string>endash</string>
       <string>emdash</string>
       <string>quoteleft</string>
@@ -1303,6 +1302,8 @@
       <string>ZWJ</string>
       <string>BASE</string>
       <string>magicglyph</string>
+      <string>lineseparator</string>
+      <string>paragraphseparator</string>
     </array>
     <key>public.postscriptNames</key>
     <dict>
