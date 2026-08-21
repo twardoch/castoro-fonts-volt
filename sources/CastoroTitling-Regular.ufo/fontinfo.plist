@@ -414,8 +414,10 @@
     <string>Castoro Titling</string>
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
+    <key>openTypeNameRecords</key>
+    <array/>
     <key>openTypeNameVersion</key>
-    <string>3.000</string>
+    <string>Version 3.000</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -532,12 +534,8 @@
       <integer>750</integer>
       <integer>757</integer>
     </array>
-    <key>postscriptFontName</key>
-    <string>CastoroTitling-Regular</string>
     <key>postscriptForceBold</key>
     <false/>
-    <key>postscriptFullName</key>
-    <string>Castoro Titling</string>
     <key>postscriptIsFixedPitch</key>
     <false/>
     <key>postscriptOtherBlues</key>
@@ -574,9 +572,9 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>versionMajor</key>
-    <integer>1</integer>
+    <integer>3</integer>
     <key>versionMinor</key>
-    <integer>200</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>455</integer>
     <key>year</key>

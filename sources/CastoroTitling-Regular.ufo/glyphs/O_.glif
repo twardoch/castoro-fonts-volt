@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
   <advance width="833"/>
   <unicode hex="004F"/>
@@ -34,28 +34,28 @@
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
-  <key>public.postscript.hints</key>
-  <dict>
-    <key>formatVersion</key>
-    <string>1</string>
-    <key>id</key>
-    <string>1fd1ec1d8aac817b8257c03f19cca5a3b7117b8780d7059870494697adca7308e969a2486a75fe44624fbd131e37c652f8e7f987d3bdd1de89dc654c3481aec8</string>
-    <key>hintSetList</key>
-    <array>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.651,1,0.6,1</string>
+      <key>public.postscript.hints</key>
       <dict>
-        <key>stems</key>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
         <array>
-          <string>hstem -12 29</string>
-          <string>hstem 681 30</string>
-          <string>vstem 55 90</string>
-          <string>vstem 689 89</string>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -12 29</string>
+              <string>hstem 681 30</string>
+              <string>vstem 55 90</string>
+              <string>vstem 689 89</string>
+            </array>
+          </dict>
         </array>
+        <key>id</key>
+        <string>1fd1ec1d8aac817b8257c03f19cca5a3b7117b8780d7059870494697adca7308e969a2486a75fe44624fbd131e37c652f8e7f987d3bdd1de89dc654c3481aec8</string>
       </dict>
-    </array>
-  </dict>
-  </dict>
+    </dict>
   </lib>
 </glyph>
