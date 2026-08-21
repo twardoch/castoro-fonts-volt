@@ -17,6 +17,8 @@
       <dict>
         <key>angle</key>
         <integer>0</integer>
+        <key>identifier</key>
+        <string>po5gmEpabm</string>
         <key>name</key>
         <string>m</string>
         <key>x</key>
@@ -27,6 +29,8 @@
       <dict>
         <key>angle</key>
         <real>75.1824</real>
+        <key>identifier</key>
+        <string>J5JjpyCVpm</string>
         <key>name</key>
         <string>f8</string>
         <key>x</key>
@@ -37,6 +41,8 @@
       <dict>
         <key>angle</key>
         <real>37.7058</real>
+        <key>identifier</key>
+        <string>Yv35MYSObl</string>
         <key>name</key>
         <string>f3</string>
         <key>x</key>
@@ -47,6 +53,8 @@
       <dict>
         <key>angle</key>
         <integer>90</integer>
+        <key>identifier</key>
+        <string>V9MqF2o40A</string>
         <key>name</key>
         <string>f9</string>
         <key>x</key>
@@ -57,6 +65,8 @@
       <dict>
         <key>angle</key>
         <integer>90</integer>
+        <key>identifier</key>
+        <string>kULz5yULve</string>
         <key>name</key>
         <string>f6</string>
         <key>x</key>
@@ -67,6 +77,8 @@
       <dict>
         <key>angle</key>
         <integer>90</integer>
+        <key>identifier</key>
+        <string>P9ZcWoEZ0I</string>
         <key>name</key>
         <string>f5</string>
         <key>x</key>
@@ -77,6 +89,8 @@
       <dict>
         <key>angle</key>
         <integer>90</integer>
+        <key>identifier</key>
+        <string>cGOXYJGHSI</string>
         <key>name</key>
         <string>f7</string>
         <key>x</key>
@@ -87,6 +101,8 @@
       <dict>
         <key>angle</key>
         <real>79.0</real>
+        <key>identifier</key>
+        <string>74AYBagYg5</string>
         <key>name</key>
         <string>f8.1</string>
         <key>x</key>
