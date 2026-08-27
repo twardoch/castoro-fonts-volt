@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="101"/>
+      <map input="500" output="113"/>
+      <map input="600" output="128"/>
+      <map input="700" output="144"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Castoro-Regular.ufo" name="Castoro-Regular" familyname="Castoro" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+      </location>
+    </source>
+    <source filename="Castoro-Bold.ufo" name="Castoro-Bold" familyname="Castoro" stylename="Bold">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="144"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Castoro Regular" familyname="Castoro" stylename="Regular" filename="instances/Castoro-Regular.ufo" stylemapfamilyname="Castoro" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="101"/>
+      </location>
+    </instance>
+    <instance name="Castoro Medium" familyname="Castoro" stylename="Medium" filename="instances/Castoro-Medium.ufo" stylemapfamilyname="Castoro Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="113"/>
+      </location>
+    </instance>
+    <instance name="Castoro SemiBold" familyname="Castoro" stylename="SemiBold" filename="instances/Castoro-SemiBold.ufo" stylemapfamilyname="Castoro SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="128"/>
+      </location>
+    </instance>
+    <instance name="Castoro Bold" familyname="Castoro" stylename="Bold" filename="instances/Castoro-Bold.ufo" stylemapfamilyname="Castoro" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="144"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R_ringbelowcomb_macroncomb_acutecomb" format="2">
+  <advance width="673"/>
+  <outline>
+    <component base="R"/>
+    <component base="ringbelowcomb" xOffset="645"/>
+    <component base="macroncomb" xOffset="590" yOffset="-20"/>
+    <component base="acutecomb" xOffset="590" yOffset="80"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
+</glyph>
